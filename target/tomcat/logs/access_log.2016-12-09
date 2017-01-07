@@ -1,0 +1,8 @@
+80.12.63.42 - - [09/Dec/2016:13:38:10 +0100] "GET /smartphone/display+code+reference+in+python+for+class+creation HTTP/1.1" 200 13 http-bio-9090-exec-1 1404
+80.12.63.42 - - [09/Dec/2016:13:38:23 +0100] "GET /smartphone/display+code+reference+in+py+for+class+creation HTTP/1.1" 200 13 http-bio-9090-exec-2 276
+80.12.63.42 - - [09/Dec/2016:13:38:42 +0100] "GET /smartphone/display+code+reference+in+sh+for+class+creation HTTP/1.1" 200 13 http-bio-9090-exec-3 328
+80.12.63.42 - - [09/Dec/2016:13:39:21 +0100] "GET /smartphone/display+code+reference+in+sh+for+function+creation HTTP/1.1" 200 95 http-bio-9090-exec-4 328
+80.12.55.57 - - [09/Dec/2016:15:32:07 +0100] "GET /smartphone/display+referenced+code+in+java+for+function+creation HTTP/1.1" 200 90 http-bio-9090-exec-1 2020
+80.12.55.114 - - [09/Dec/2016:18:06:35 +0100] "GET /smartphone/display+referenced+cod+in+java+for+function+creation HTTP/1.1" 200 90 http-bio-9090-exec-3 602
+80.12.55.114 - - [09/Dec/2016:18:11:36 +0100] "GET /smartphone/ HTTP/1.1" 200 39 http-bio-9090-exec-5 2
+80.12.55.114 - - [09/Dec/2016:18:11:45 +0100] "GET /smartphone/aaa HTTP/1.1" 200 13 http-bio-9090-exec-6 661
